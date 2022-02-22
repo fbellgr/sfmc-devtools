@@ -6,16 +6,16 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Accenture/sfmc-devtools.git"
+        "url": "https://github.com/fbellgr/sfmc-devtools.git"
     },
-    "homepage": "https://github.com/Accenture/sfmc-devtools#readme",
+    "homepage": "https://github.com/fbellgr/sfmc-devtools#readme",
     "bugs": {
-        "url": "https://github.com/Accenture/sfmc-devtools/issues",
+        "url": "https://github.com/fbellgr/sfmc-devtools/issues",
         "email": "joern.berkefeld@accenture.com"
     },
     "funding": {
         "type": "corporate",
-        "url": "https://github.com/Accenture/sfmc-devtools"
+        "url": "https://github.com/fbellgr/sfmc-devtools"
     },
     "main": "./lib/index.js",
     "bin": {
@@ -43,6 +43,7 @@
         "fs-extra": "10.0.0",
         "inquirer": "8.2.0",
         "json-to-table": "4.2.1",
+        "lodash": "4.17.21",
         "mustache": "4.2.0",
         "prettier": "2.5.1",
         "semver": "7.3.5",
